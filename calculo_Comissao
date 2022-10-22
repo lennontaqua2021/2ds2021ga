@@ -16,6 +16,7 @@
     <form method="GET">
         
         <label for="exampleFormControlInput1">Nome</label>
+        <label for="exampleFormControlInput1">idade</label>
         
         <br>
         <input class="form-control form-control-lg" type="text" name="txtnome" placeholder="Nome">
