@@ -9,8 +9,8 @@
 </head>
 
 <body class="container">
-
-    <h1 class="text-center">Calcula a Comissão dos Vendedores</h1>
+    
+    <h2 class="text-center">Calcula a Comissão dos Vendedores</h2>
     <hr>
     
     <form method="GET">
